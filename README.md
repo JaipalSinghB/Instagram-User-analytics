@@ -3,8 +3,7 @@
 
 # Project Description -: This project is about finding the important solutions of
 questions which further helps to improve the platform for users and business
-perspectives.
-For example in this project I try to find some useful insights from data for
+perspectives.For example in this project I try to find some useful insights from data for
 marketing team for further help in their campaigns from promoting some ads to
 find not so active users to engage with platform etc. and also from investors
 metrics I tried to find some useful insights.
